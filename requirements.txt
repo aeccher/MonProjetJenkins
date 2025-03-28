@@ -1,1 +1,2 @@
-echo "pytest" > requirements.txt
+pytest
+
